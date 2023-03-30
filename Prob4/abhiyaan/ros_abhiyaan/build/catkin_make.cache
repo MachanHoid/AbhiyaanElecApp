@@ -1,0 +1,2 @@
+helloworld
+-DCATKIN_DEVEL_PREFIX=/home/nitin/abhiyaan/ros_abhiyaan/devel -DCMAKE_INSTALL_PREFIX=/home/nitin/abhiyaan/ros_abhiyaan/install -G Unix Makefiles
